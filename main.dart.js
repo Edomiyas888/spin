@@ -27488,7 +27488,7 @@ k.az()
 k.saK(null)
 p.CW$!==$&&A.ak()
 p.CW$=k
-l=k}p.YS(new A.SU(n,new A.Bw(B.PY,"Wheel of Fortune",q,!1,null),m,l,null))
+l=k}p.YS(new A.SU(n,new A.Bw(B.PY,"Spin to win",q,!1,null),m,l,null))
 p.Kl()
 return A.F(null,r)}})
 return A.G($async$ayq,r)},
